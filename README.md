@@ -34,13 +34,13 @@ A beautiful, responsive web application that automatically changes themes based 
 - System dark mode support
 
 ## 🚀 Live Demo
-[View Live Demo](your-demo-link-here)
+[View Live Demo](https://dynamic-theme-weather.netlify.app/)
 
 ## 💻 Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dynamic-theme-weather.git
+git clone https://github.com/PixelCodeGH/dynamic-theme-weather.git
 ```
 
 2. Navigate to the project directory:
@@ -112,10 +112,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Sun/Moon calculations by [SunCalc](https://github.com/mourner/suncalc)
 - Inspired by various day/night cycle implementations
 
-## 📞 Contact
-
-- Your Name - [your-email@example.com]
-- Project Link: [https://github.com/yourusername/dynamic-theme-weather](https://github.com/yourusername/dynamic-theme-weather)
-
 ---
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [PixelCode] 
